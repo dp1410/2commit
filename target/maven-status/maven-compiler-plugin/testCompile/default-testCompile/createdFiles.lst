@@ -1,0 +1,9 @@
+teeth\integration\api\BookControllerTest.class
+teeth\config\TestScopeWebSecurityConfigurer.class
+teeth\integration\api\AuthorControllerTest.class
+teeth\integration\base\TestScopeAuthentication.class
+teeth\unit\api\BookControllerTest.class
+teeth\unit\api\AuthorControllerTest.class
+teeth\integration\base\IntegrationTestBase.class
+teeth\unit\web\service\AuthorServiceImplTest.class
+teeth\unit\web\service\BookServiceImplTest.class
